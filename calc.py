@@ -9,6 +9,7 @@ def sub(a,b):
 
 def div(a,b):
     return a/b
+print("changed dummy file check its effect on master after merging")
 print(add(1,26))
 print(mul(10,10))     
 print("added multiplication")
